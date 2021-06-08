@@ -1,2 +1,3 @@
 Hello Git!   hot-fix分支修改
 master text
+hot-fix test
